@@ -4,5 +4,5 @@ menu: [top]
 weight: 7
 ---
 
-![]("../data/cgmtileling.svg")
+![]("/img/cgmtileling.svg")
 
